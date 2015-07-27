@@ -1,3 +1,8 @@
+# Image Board
+
+This assignment was to create an image board that saved submissions to a Heroku server using Backbone.
+
+
 # Prepare your scaffolding
 
 Clone this repo and run the setup script:
